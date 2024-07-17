@@ -49,8 +49,6 @@
 
 
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikundkumar&show_icons=true&locale=en&layout=compact" alt="bikundkumar" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay-1458&show_icons=true&locale=en&layout=compact" alt="bikundkumar" /></p>
 
 
