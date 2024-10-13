@@ -51,5 +51,6 @@
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikundkumar&show_icons=true&locale=en&layout=compact" alt="bikundkumar" /></p>
+<img align="left" alt="bikundkumar' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bikundkumar&show_icons=true&theme=radical" />
 
 
