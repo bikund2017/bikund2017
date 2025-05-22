@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Bikund Kumar</h1>
-<h3 align="center">I am a second-year BCA student. I'm currently diving into Data Structures and Algorithms (DSA) and Cloud Computing. I'm passionate about learning and love coding. I'm on a journey to improve my skills for both personal and career growth. Let's grow together!.<br>
+<h3 align="center">I am a second-year BCA student.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
