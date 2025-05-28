@@ -54,7 +54,4 @@
 <img align="left" alt="bikundkumar' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bikundkumar&show_icons=true&theme=radical" />
 </br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bikundkumar&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
 
