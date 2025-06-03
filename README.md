@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:bikund2017@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
   
 <a href="https://www.hackerrank.com/Bikund2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aids21036" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/Bikund2017" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRWFMWR0ZVJByGadksSMu-4evEfgQfORMEg&s.svg" alt="Bikund2017" height="30" width="40" /></a>
@@ -53,5 +54,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikundkumar&show_icons=true&locale=en&layout=compact" alt="bikundkumar" /></p>
 <img align="left" alt="bikundkumar' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bikundkumar&show_icons=true&theme=radical" />
 </br>
-
-
