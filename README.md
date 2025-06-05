@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwbzhpNHFrZmd6eGgxbWFhOHFoemdicHoxeXViYXdna2M0Z3RjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="http://www.linkedin.com/in/bikund-kumar2017/">
+  <a href="http://www.linkedin.com/in/bikund2017/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -51,6 +51,6 @@
 
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikundkumar&show_icons=true&locale=en&layout=compact" alt="bikundkumar" /></p>
-<img align="left" alt="bikundkumar' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bikundkumar&show_icons=true&theme=radical" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikund2017&show_icons=true&locale=en&layout=compact" alt="bikund2017" /></p>
+<img align="left" alt="bikund2017' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bikund2017&show_icons=true&theme=radical" />
 </br>
