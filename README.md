@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Bikund Kumar</h1>
-<h3 align="center">I am a 2nd student.<br>
+<h3 align="center">I am a 2nd year student.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
