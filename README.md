@@ -2,9 +2,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwbzhpNHFrZmd6eGgxbWFhOHFoemdicHoxeXViYXdna2M0Z3RjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="http://www.linkedin.com/in/bikund2017/">
+  <!-- <a href="http://www.linkedin.com/in/bikund2017/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <a href="https://bikund2017.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
