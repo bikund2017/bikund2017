@@ -5,7 +5,7 @@
   <!-- <a href="http://www.linkedin.com/in/bikund2017/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="https://bikund2017.vercel.app/">
+  <a href="https://bikund-kumar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
