@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Final Year** Computer Science Student
+- 🎓 **Final Year** Bachelor of Computer Applications Student
 - 💻 Passionate about building **web applications** and solving problems
 - 🌱 Currently exploring **full-stack development** and **cloud technologies**
 - 📫 Reach me at **bikund2017@outlook.com**
