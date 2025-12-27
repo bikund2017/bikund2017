@@ -1,11 +1,8 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwbzhpNHFrZmd6eGgxbWFhOHFoemdicHoxeXViYXdna2M0Z3RjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180"/>
-  
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bikund+Kumar;Final+Year+CS+Student;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bikund+Kumar;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views & Badges -->
@@ -20,67 +17,61 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **Final Year** Bachelor of Computer Applications Student
-- 💻 Passionate about building **web applications** and solving problems
-- 🌱 Currently exploring **full-stack development** and **cloud technologies**
-- 📫 Reach me at **bikund2017@outlook.com**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <em>🌱 I'm currently learning <strong>WebSockets and Serverless Architectures</strong></em>
+</p>
+<p align="center">
+  <em>📫 How to reach me: <strong>bikund2017@outlook.com</strong></em>
+</p>
 
 ---
 
-<!-- ### 📊 GitHub Stats 
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikund2017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikund2017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikund2017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
-
----
--->
-
-### 🤝 Connect With Me
-
-<div align="center">
-  
-  <a href="mailto:bikund2017@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/bikund2017/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://bikund2017.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://leetcode.com/u/bikund2017/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  
+  <a href="https://www.hackerrank.com/profile/Bikund2017">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://discordapp.com/users/bikund2017">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,arduino,git,github,vscode,docker,postman,vercel,aws,linux,md&perline=11" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bikund2017&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" style="margin: 10px;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikund2017&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=bikund2017&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="189" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikund2017&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
 
 ---
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-</div>
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bikund2017&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bikund2017&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
