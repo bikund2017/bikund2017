@@ -55,8 +55,6 @@
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bikund2017&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" style="margin: 10px;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikund2017&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=bikund2017&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="189" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikund2017&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
