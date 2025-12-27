@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats 
 
 <div align="center">
   
@@ -62,6 +62,7 @@
 </div>
 
 ---
+-->
 
 ### 🤝 Connect With Me
 
