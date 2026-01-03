@@ -8,7 +8,7 @@
   <!-- Profile Views & Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=bikund2017&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://bikund2017.vercel.app/">
+    <a href="https://bikund.tech">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
