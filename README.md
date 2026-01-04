@@ -28,7 +28,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://www.linkedin.com/in/bikund2017/">
+  <a href="https://www.linkedin.com/in/bikundkr2017/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/bikund2017/">
